@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://prakhar:qwerty12@cluster0.xwhnfpj.mongodb.net/Product?retryWrites=true&w=majority
